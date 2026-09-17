@@ -60,7 +60,7 @@ git clone https://github.com/luizz-costa/gerador-de-senhas-fortes.git
 - WWW (Laragon)
 
 #### 3. Abra no navegador
-`http://localhost/zer0-day-to-do-list-php`
+`http://localhost/gerador-de-senhas-fortes`
 
 ---
 
